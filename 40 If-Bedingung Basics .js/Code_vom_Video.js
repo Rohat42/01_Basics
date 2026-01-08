@@ -1,7 +1,8 @@
 let a = 10;
 
-
-
+// a > 10 größer
+// a < 10 kleiner
+// a == 109
 
 if (a==9) {
 

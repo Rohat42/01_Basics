@@ -8,4 +8,4 @@ let bananewight=0.22;
 console.log(applewight*applePricePerKilo*8);
 console.log(bananewight*bananewight*17);
 console.log(applewight*applePricePerKilo*1000);
-console.log(bananewight*bananaPricePerKilo*1000);
+console.log(bananewight*bananaPricePerKilo*1000)

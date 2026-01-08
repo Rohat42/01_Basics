@@ -5,5 +5,3 @@ let art = prompt ("Rechenart (+ - * /): ");
 
 let erg;
 
-
-console.log();

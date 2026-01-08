@@ -6,6 +6,6 @@ if (true && false && true) {
     console.log("its bigger");
 
 } else {
-    console.log("in else");
+    console.log("in elsee");
 
 }
